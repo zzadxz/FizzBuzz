@@ -422,3 +422,5 @@ the other one of you will need to do a `git pull` to get the changes. Of course,
 and try to push, there may be conflicting changes which need to be resolved. As mentioned earlier,
 git does a pretty good job telling you what is wrong and can help you resolve any conflicts. We'll talk more about
 this later, as well as other features of git which can help you avoid conflicts.
+
+This are remote changes that I made from my GitHub :)
